@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pia Fraus, or, Absalom's theft being a sermon preached to a country-congregation on the thirtieth of January last, being the anniversary fast for the martyrdom of King Charles the First / by R.L., M.A.</title>
+            <author>Lawe, Robert, b. 1617 or 18.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70539</idno>
+            <idno type="STC">Wing L637A</idno>
+            <idno type="STC">ESTC R43031</idno>
+            <idno type="EEBO-CITATION">12863201</idno>
+            <idno type="OCLC">ocm 12863201</idno>
+            <idno type="VID">94699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1724:1, 718:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pia Fraus, or, Absalom's theft being a sermon preached to a country-congregation on the thirtieth of January last, being the anniversary fast for the martyrdom of King Charles the First / by R.L., M.A.</title>
+                  <author>Lawe, Robert, b. 1617 or 18.</author>
+               </titleStmt>
+               <extent>[4], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. and F. Collins, for Charles Yeo ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Rob. Lawe.</note>
+                  <note>This item appears at reel 718:12 as Wing L56 (number cancelled in Wing 2nd ed.), and at reel 1724:11 as Wing L637A.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XV, 6 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94699:1"/>
+            <p>Pia Fraus: OR, Abſalom's Theft.</p>
+            <p>BEING A SERMON Preached to a Country-Congregation On the Thirtieth of <hi>January</hi> laſt, BEING The ANNIVERSARY FAST FOR The MARTYRDOM OF King <hi>CHARLES</hi> the Firſt.</p>
+            <p>By <hi>R. L.</hi> M. A.</p>
+            <q>
+               <bibl>
+                  <hi>Lament. ch. 4. v. 20.</hi>
+               </bibl> 
+               <p>The breath of our noſtrils, the anointed of the Lord, was taken in their pits; of whom we ſaid, <g ref="char:V">Ʋ</g>nder his ſhadow we ſhall live among the heathen.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> and <hi>F. Collins,</hi> for <hi>Charles Yeo</hi> Bookſeller in <hi>Exon.</hi> 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94699:2"/>
+            <pb facs="tcp:94699:2"/>
+            <p>Viro verè Nobili, Et Regiae Majeſtatis Subdito fideliſſimo, Necnon Eccleſiae Anglicanae Filio obſequientiſſimo, <hi>EDVARDO SEYMOR</hi> Bar<hi rend="sup">t</hi> Hanc CONCIONEM, In Teſtimonium gratitudinis, Humillimè offert, dicat &amp; dedicat</p>
+            <closer>
+               <signed>ROB. LAWE.</signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:94699:3"/>
+            <p>The Reader is deſired to take notice, that this SERMON was fitted for the Preſs, as now it is, before the Plot was detected; but met with an unexpected impedi<g ref="char:EOLhyphen"/>ment.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:94699:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 SAM. 15.</hi> v. <hi>6.</hi>
+                  </bibl>
+                  <p>So Abſalom ſtole the hearts of the men of Iſrael.</p>
+               </q>
+            </epigraph>
+            <p>THE Text preſents you with a Theft of the higheſt nature, aggravated by the horrideſt circumſtances. Under the Law,
+<note place="margin">Exod. 22 <hi>v.</hi> 1, 4. Prov. 6.31.</note> common Theft was puniſhed with reſtitu<g ref="char:EOLhyphen"/>tion of <hi>double;</hi> in ſome caſes, of <hi>fourfold, fivefold, ſevenfold,</hi> according to the various circumſtances of the fact: But he that <hi>ſtole a man,</hi> was to <hi>die without mercy: He ſhall ſurely be put to death,</hi> Exod. 21. <hi>verſ.</hi> 16. Hence
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Men-ſtealers</hi> are reckoned amongſt the vileſt of ſinners, 1 <hi>Tim.</hi> 1.10. What puniſhment doth he deſerve then, that ſteals the beſt and nobleſt part of man, the <hi>heart?</hi>
+               <list>
+                  <item>1.
+<note place="margin">Pſal. 82.6. <hi>I have ſaid, Ye are Gods.</hi>
+                     </note> From ſo ſacred a perſon as a <hi>King</hi> (a God upon earth) that robs him of the love and loyalty of his Sub<g ref="char:EOLhyphen"/>jects.</item>
+                  <pb n="2" facs="tcp:94699:4"/>
+                  <item>2. For ſo vile a purpoſe, as <hi>Rebellion, Murther,</hi> &amp;c.</item>
+                  <item>3. By ſuch wicked means as <hi>falſhood, flattery, lying, hypocriſie, prophanation of the name of God,</hi> &amp;c. proſtituting Religion it ſelf to the baſeſt deſignes, by making it a Veil to cover the in<g ref="char:EOLhyphen"/>famy of the moſt enormous actions.</item>
+                  <item>4. And for ſo miſchievous an end, as <hi>to dethrone the Lords Anointed,</hi> and <hi>ad<g ref="char:EOLhyphen"/>vance an infamous Rebel to his Seat.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>But let us examine the circumſtances a<g ref="char:EOLhyphen"/>part, and enquire,</p>
+            <p n="1">I. <hi>Firſt,</hi> What the <hi>Theft</hi> was, or who <hi>ſtole?</hi>
+            </p>
+            <p>
+               <hi>Abſalom,</hi> an unnatural Wretch, an un<g ref="char:EOLhyphen"/>grateful Viper, a Subject, a Son, bound to his Father by many obligations and extra<g ref="char:EOLhyphen"/>ordinary favours; one that had ſo deep an intereſt in his heart, that the barbarous murther of his own Brother <hi>Amnon,</hi> could not alienate his affection from him; but <hi>his heart was ſtill towards him,</hi> 2 Sam. 14.1. (when indeed the hand of his Juſtice ſhould have been againſt him). Nay, he ſo vehemently doted on this ungracious
+<pb n="3" facs="tcp:94699:4"/>wretch, that his ſoul not onely <hi>longed to go forth unto him,</hi> 2 Sam. 13.39. but alſo
+<note n="*" place="margin">In the margent, <hi>Was con<g ref="char:EOLhyphen"/>ſumed.</hi> The Se<g ref="char:EOLhyphen"/>ptuagint renders it
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, i.e. <hi>Valdè laboravit,</hi> or <hi>uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad fatigatio<g ref="char:EOLhyphen"/>nem.</hi>
+               </note> languiſhed in the deſire of enjoying him; ſo that he was no longer able to bear his exile or abſence. Nay, ſo doating and blind was his Fathers affection, that he could not, or would not ſee the Plot that was hatching againſt him, though viſible e<g ref="char:EOLhyphen"/>nough, by his Darlings dayly courting the people, and ſlily inſinuating himſelf into their affections: which could not chuſe but come to his ears by ſome one or other of his attendants, (it being ſo frequent, ſo publick, <hi>beſide the way of the gate,</hi> 2 Sam. 15.2. the place of publick concourſe, and his dayly practice) had not his monſtrous fondneſs either ſilenced the tongues of thoſe that were about him, or ſtopt his own ears againſt all informations, or charm'd him into ſuch a confidence of his Son's Loyalty, as that he was reſolved to believe no Re<g ref="char:EOLhyphen"/>ports againſt his ungrateful Fondling.</p>
+            <p>Here were obligations enough to have kept him within the bounds of his duty, and all loyal obedience, and to have ſilen<g ref="char:EOLhyphen"/>ced and ſuppreſſed all riſings of rebellious thoughts within him; being ſo ſtrongly,
+<pb n="4" facs="tcp:94699:5"/>bound by Nature, Scripture, Allegiance, Gratitude, <hi>&amp;c.</hi> But what unnatural Vil<g ref="char:EOLhyphen"/>lanies will not Pride and Ambition put re<g ref="char:EOLhyphen"/>bellious ſpirits upon!</p>
+            <p n="2">II. <hi>Secondly,</hi> What did this <hi>Abſalom ſteal? The hearts of the men of Iſrael;</hi> id eſt, their Affections, Love, Loyalty, Obe<g ref="char:EOLhyphen"/>dience; alienating them from their lawful Soveraign, and wretchedly perverting them to the advancement of his own rebellious deſigne, and the deſtruction of his Father, whoſe right they properly were.</p>
+            <p>Now that this was a manifeſt <hi>Theft,</hi> will appear by a double conſideration.</p>
+            <p>
+               <hi>Firſt,</hi>
+               <note place="margin">
+                  <hi>Furtum eſt occulta ac<g ref="char:EOLhyphen"/>ceptio rei alienae,</hi> Aquin. or <hi>ablatio fraudulenta rei alienae, invito domino, lu<g ref="char:EOLhyphen"/>cri cauſa.</hi> The Septua<g ref="char:EOLhyphen"/>gint renders it,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c. fecit cór virorum Iſrael ſuum.</hi>
+               </note> Becauſe <hi>the hearts of the men of Iſrael</hi> were not <hi>Ab<g ref="char:EOLhyphen"/>ſalom</hi>'s, but his Father's right; their Affection, Loyalty, and Obedience were due to their Soveraign: and it was <hi>theft</hi> in <hi>Abſalom</hi> (a private perſon) to alienate them from his Prince, who had the onely juſt and legal Title to them: a <hi>theft</hi> (as might be ſhewed) that was aggrava<g ref="char:EOLhyphen"/>ted by many circumſtances; as, the high value of the thing ſtoln, the great injury that was done to the Owner, and the ſad
+<pb n="5" facs="tcp:94699:5"/>conſequences of it, even to thoſe that were acceſſary to it. For to ſteal <hi>the hearts of the people,</hi> was to ſteal a <hi>Crown</hi> from a <hi>King,</hi> to convert it to the damage and deſtruction of the legal Poſſeſſor, whoſe <hi>Crown</hi> and <hi>Head</hi> were doomed to fall both together.</p>
+            <p>The peoples hearts then were <hi>David</hi>'s by right; he had as good a Title to them as he had to his Crown, and that was as good as God himſelf could confer upon him. But the Rebel had none but an u<g ref="char:EOLhyphen"/>ſurped power; and it's certain that the clamours of the Rout, <hi>Abſalom reigneth in Hebron,</hi> could devolve no right upon him.</p>
+            <p>It's granted, that they might love and honour him as the King's Son; but not in competition with, or oppoſition to their lawful Soveraign; not ſo as to be perſwa<g ref="char:EOLhyphen"/>ded, by his pious diſguiſes and plauſible pre<g ref="char:EOLhyphen"/>tences of Reformation, to give up their hearts to the diſpoſal of an Uſurper, and combine to ſet the Crown upon a Rebels head.</p>
+            <p>
+               <hi>Secondly,</hi> Becauſe he did it ſecretly, cloſely, treacherouſly, <hi>like a thief-in the dark,</hi> Job 24.14. and like a cunning inſi<g ref="char:EOLhyphen"/>nuating
+<pb n="6" facs="tcp:94699:6"/>Hypocrite, inveigled all the peo<g ref="char:EOLhyphen"/>ple with his gentile Deportment and Com<g ref="char:EOLhyphen"/>plements, his ſpecious Pretences and Al<g ref="char:EOLhyphen"/>lurements; and this ſo ſubtily, that neither <hi>David</hi> himſelf, nor the people, could diſ<g ref="char:EOLhyphen"/>cover his Plot, till it was ripe for action, and paſt all poſſibility of prevention.</p>
+            <p>The common guiſe of all Rebels, to walk at firſt in the dark, and like cunning Pioneers, to work under ground until they have brought their Mine to perfection, and then they blow up the foundations of all ancient and regular Government in an in<g ref="char:EOLhyphen"/>ſtant: ſuch exact imitators are they of that Prince of Darkneſs, the firſt Rebel in the World, the grand Inciter to, and Author of all Rebellions againſt God and his Vicege<g ref="char:EOLhyphen"/>rents. Had <hi>Abſalom</hi> attempted this by plain and open force, probably he had ne<g ref="char:EOLhyphen"/>ver prevailed ſo far; therefore he lays the foundation of his Plot in ſecret fraud, and makes uſe of the Foxes caſe, to prepare a way for his after-appearance in the Lions skin.</p>
+            <p n="3">III. <hi>Thirdly,</hi> Let us enquire whoſe hearts <hi>Abſalom ſtole? The hearts of the men of Iſrael;</hi> who were,</p>
+            <pb n="7" facs="tcp:94699:6"/>
+            <p n="1">1. The peculiar people of God, ſolemn<g ref="char:EOLhyphen"/>ly dedicated to him and his ſervice, in co<g ref="char:EOLhyphen"/>venant with him, and highly prized by him. Now to draw them into ſo foul an Apoſtacy, ſo fatal a Conſpiracy againſt the <hi>Lord</hi> and <hi>his Anointed,</hi> was a great aggra<g ref="char:EOLhyphen"/>vation of his damned Impiety.</p>
+            <p n="2">2. But this is not all. The men whoſe hearts he ſtole, were <hi>David's Subjects,</hi> tyed not onely by the Bonds of natural Al<g ref="char:EOLhyphen"/>legiance to their Prince, but with the moſt ſacred Tyes of Religion; a <hi>Solemn League and Covenant</hi> made before the Lord in <hi>He<g ref="char:EOLhyphen"/>bron,</hi> 2 Sam. 5.3. So that he drew them not onely into <hi>Rebellion,</hi> but <hi>Perjury;</hi> ſuch near affinity there is between ſins of this nature.</p>
+            <p n="3">3. <hi>Abſalom ſtole the hearts of the men of Iſrael,</hi> not barely from their King, but a King of Gods own immediate choice and appointment, <hi>Pſal.</hi> 89.20. <hi>I have exalted one choſen out of the people, I have found David my ſervant,</hi> (as it were by diligent ſearch and enquiry after ſome excellent and heroick perſon) <hi>with my holy oyl have I a<g ref="char:EOLhyphen"/>nointed him:</hi> And 2 <hi>Chron.</hi> 6.6. <hi>I have choſen Jeruſalem, that my Name might be
+<pb n="8" facs="tcp:94699:7"/>there: and have choſen David to rule over my people Iſrael,</hi> that under his government they might enjoy the greater felicity.</p>
+            <p n="4">4. He ſtole their hearts from a King, whom they received with the greateſt ex<g ref="char:EOLhyphen"/>preſſions of <hi>joy,</hi> 1 Chron. 12.40. and not without cauſe, if you conſider how well he deſerved of them, by their own ac<g ref="char:EOLhyphen"/>knowledgment, 2 <hi>Sam.</hi> 5.2. <hi>Alſo in time paſt, when Saul was King over us, thou waſt he that leddeſt out and broughteſt in Iſrael,</hi> &amp;c. 2 Sam. 19.9. <hi>The King ſaved us out of the hand of our enemies, and delivered us out of the hand of the Philiſtins,</hi> &amp;c. In a word, one that had conquered their ene<g ref="char:EOLhyphen"/>mies, enlarged their Territories, (but a<g ref="char:EOLhyphen"/>bove all) reformed their Religion accor<g ref="char:EOLhyphen"/>ding to the purity of Gods Law. And yet theſe are the men whoſe hearts were <hi>ſtoln</hi> from their confeſſedly-deſerving Sove<g ref="char:EOLhyphen"/>raign, by the crafty inſinuations of com<g ref="char:EOLhyphen"/>plemental <hi>Abſalom.</hi> So mutable are the opinions and affections of the giddy Mul<g ref="char:EOLhyphen"/>titude!</p>
+            <p n="4">IV. <hi>Fourthly,</hi> This will appear more clearly, if we conſider the next circum<g ref="char:EOLhyphen"/>ſtance; from whom the hearts of the men
+<pb n="9" facs="tcp:94699:7"/>of Iſrael were ſtoln: from no common perſon, but a <hi>King;</hi> from no foreign King, but their own; no unworthy daſtardly Prince, but an heroical, magnanimous, and renowned one, for his Valour, Wiſdom, Piety, <hi>&amp;c.</hi> choſen of God to be the Ruler of his people, as you heard before: <hi>A man after Gods own heart,</hi> 1 Sam. 13.14. one that <hi>did judgment and juſtice to all his peo<g ref="char:EOLhyphen"/>ple,</hi> 2 Sam. 8.15. (whatſoever the Rebel ſuggeſted to the contrary) ruled them prudently with all his power, <hi>fed them ac<g ref="char:EOLhyphen"/>cording to the integrity of his heart, and gui<g ref="char:EOLhyphen"/>ded them by the skilfulneſs of his hands,</hi> Pſal. 78.72.</p>
+            <p>This is the King whoſe Subjects hearts were <hi>ſtoln</hi> by an ungrateful Son and infa<g ref="char:EOLhyphen"/>mous Rebel. So blind is Ambition in the Plotters, and a brutiſh Itch after novelty in the Abettors of rebellious projects and pra<g ref="char:EOLhyphen"/>ctices againſt the beſt of Princes.</p>
+            <p>How much then doth it concern Princes to carry a jealous eye over that <hi>beaſt with many heads?</hi> to ſuſpect the fickle and un<g ref="char:EOLhyphen"/>conſtant diſpoſition of the Multitude (e<g ref="char:EOLhyphen"/>ſpecially if poyſoned with principles of Re<g ref="char:EOLhyphen"/>bellion, under pretences of Religion); who
+<pb n="10" facs="tcp:94699:8"/>are apt enough of themſelves to grow weary of the preſent Government, if at leaſt it be charged (true or falſe, they ne<g ref="char:EOLhyphen"/>ver examine) by their graceleſs Ringlea<g ref="char:EOLhyphen"/>ders with any irregularities or defects, (though ſuch as probably cannot be avoi<g ref="char:EOLhyphen"/>ded in the beſt of Governments, or by the beſt of Governours): but <hi>Abſalom fura<g ref="char:EOLhyphen"/>tus eſt cor,</hi> &amp;c. <hi>i. e.</hi> (as one deſcans upon the Text) <hi>excordem reddidit, &amp; amen<g ref="char:EOLhyphen"/>tem populum:</hi> he made the people ſtark mad by his intoxicating Allurements and Inchantments.</p>
+            <p>V. <hi>Fifthly,</hi> By what means he ſtole the hearts of the men of Iſrael? By the moſt vile and ſordid that Hell it ſelf could ſug<g ref="char:EOLhyphen"/>geſt, (and yet ſuch as are uſually practiſed by Rebels in their method of undermining Kingdoms) as Fraud, Flattery, Lying, Hy<g ref="char:EOLhyphen"/>pocriſie, palpable and malicious ſlandering his Fathers Perſon and Government.</p>
+            <p>This obſequious Gallant <hi>puts forth his hand, embraces and kiſſes every one that comes to him to do him obeiſance,</hi> 2 Sam. 15.5. <hi>Et omnia ſerviliter pro dominatione,</hi> as <hi>Taci<g ref="char:EOLhyphen"/>tus</hi> ſaid of <hi>Otho.</hi> He <hi>kiſſed them,</hi> not out of <hi>love,</hi> but <hi>deſigne,</hi> as <hi>Judas</hi> did our bleſſed
+<pb n="11" facs="tcp:94699:8"/>Lord and Saviour, <hi>Mat.</hi> 26.48. not to <hi>ſa<g ref="char:EOLhyphen"/>lute,</hi> but <hi>betray</hi> him. We read, <hi>John</hi> 12.4, and 5. how ſollicitous the Hypocrite ſeemed to be for the good of the poor; <hi>not that he cared for the poor, but becauſe he was a thief.</hi> So this Traytor puts on the Cloak of feigned Humility and Humanity, Holineſs and Charity; not that he regar<g ref="char:EOLhyphen"/>ded any of thoſe, or minded the happineſs of the people; but becauſe he was a <hi>Thief,</hi> and aimed at the <hi>Crown.</hi>
+            </p>
+            <p>For what probability was there, that he who was ſo prodigal of the bloud of his own Brother <hi>Amnon,</hi> ſhould be tender of the lives of his Subjects? or that he ſhould make conſcience of preſerving the Rights and Priviledges of his People, who endea<g ref="char:EOLhyphen"/>voured to deprive his Prince and Father of his Regal Prerogatives? or that he ſhould conſult the Peace of the Nation, that wil<g ref="char:EOLhyphen"/>fully involved it in an unnatural and bloudy War, onely to ſatisfie his own ambitious Luſt?</p>
+            <p>And yet how paſſionately doth the Hy<g ref="char:EOLhyphen"/>pocrite breath out, <hi>O that I were made a judge in the land, that every man that hath ſuit on cauſe, might come unto me, and I would
+<pb n="12" facs="tcp:94699:9"/>do him juſtice!</hi> How zealous would the good man be for the Peoples Welfare
+<note n="*" place="margin">
+                  <p>Occultum &amp; inſidio<g ref="char:EOLhyphen"/>ſum malum eſt perfidia cujus efficaſiſſimae vires ſunt mentiri &amp; fallere. <hi>Val. Max.</hi>
+                  </p>
+                  <p>Prov. 10.18. <hi>He that hideth hatred with lying lips, and he that uttereth a ſlander, is a fool.</hi>
+                  </p>
+               </note>! for ſays he, <hi>thy matters are good and right, but there is no man deputed of the King to hear thee.</hi> As if he ſhould have ſaid, Neither the King, nor a<g ref="char:EOLhyphen"/>ny of his Officers, have any re<g ref="char:EOLhyphen"/>gard to Juſtice or the Publick Good; (a brazen-fac'd lye, and ſhameleſs ſlander, of a graceleſs wretch): Yet with this Art he woes and wins the hearts of the men of Iſrael. But the grand Engine to advance his helliſh deſigne, was the Traytors hypocriſie, and pretence of Religion, (the painted Vizard that the vi<g ref="char:EOLhyphen"/>leſt Rebels uſe to hide the deformity of their miſchievous Plots with). Religion muſt be a Cloak for his Rebellion; a <hi>Vow</hi> muſt be <hi>paid in Hebron,</hi> the place where his Father was firſt crowned King, and, as 'tis probable, where himſelf was born and bred, amongſt his Relations and Acquain<g ref="char:EOLhyphen"/>tance; and at ſome diſtance from the Court, that he might act his part with the leſs ſuſ<g ref="char:EOLhyphen"/>pition. 'Tis granted, that as a prologue to the Plot, he <hi>prepared him chariots and
+<pb n="13" facs="tcp:94699:9"/>horſe-men, and fifty men to run before him;</hi> that he might appear ſplendid before the People, and dazle the eyes of the Vulgar, who are much taken with Novelties, and apt to admire ſuch a royal Attendance, and outward appearance of Grandeur.</p>
+            <p>Beſides, he <hi>invited two hundred men out of Jeruſalem,</hi> to grace the action, <hi>who went in their ſimplicity, and knew not any thing:</hi> Yet, I ſay, Religion (the pretence of it) was the main and moſt effectual Artifice to win the Peoples affections, and under the vizard of Piety, to cheat them into a moſt impious Rebellion and Apoſtacy. <hi>A Vow</hi> muſt be <hi>paid in Hebron,</hi> 2 Sam. 15.7. <hi>Sacrifices</hi> muſt be <hi>offered</hi> there, <hi>v.</hi> 12. And would ſo religious a Prince attempt any thing that was unlawful or unjuſt? But ſee the damned hypocriſie of this flagitious Wretch! theſe Sacrifices were offered in <hi>Deſigne,</hi> not in <hi>Devotion.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Either <hi>quod conjuratio validior eſſet foedere Sancita,</hi> that the Conſpiracy might be the ſtronger, being ratified by <hi>a Solemn League and Covenant.</hi>
+            </p>
+            <p>Thus the <hi>Guiſian</hi> party in <hi>France</hi> ſtrengthened their ſide by their <hi>holy League;</hi>
+               <pb n="14" facs="tcp:94699:10"/>and the <hi>perfidious</hi> party of the <hi>Scots,</hi> in i<g ref="char:EOLhyphen"/>mitation of them, (and 'tis probable by the <hi>French</hi> advice) play'd their Pranks un<g ref="char:EOLhyphen"/>der the ſame Vizard;
+<note place="margin">You may read their pal<g ref="char:EOLhyphen"/>pable Hypocri<g ref="char:EOLhyphen"/>ſie and Jugling, in the King's large Declara<g ref="char:EOLhyphen"/>tion.</note> by which they in<g ref="char:EOLhyphen"/>tended, eſpecially the Ringleaders of the Faction (whatever they pretended) to ſtrengthen the hands of their Party, and by the ſtricteſt tyes of Religion, to engage in<g ref="char:EOLhyphen"/>cautelous Souls in one of the moſt villanous Rebellions that ever was hatched in Hell, or acted on Earth: And yet all this while (ſee the villany of it!) many of the Con<g ref="char:EOLhyphen"/>trivers had a ſecret reſerve and reſolution to keep it no further or longer than it ſhould be ſubſervient to their own ambitious and covetous ends. Witneſs their baſe, bar<g ref="char:EOLhyphen"/>barous, and treacherous delivery up of the King's perſon (whom they were bound by the Law of Nature, Nations, and common Humanity, to have protected) into the hands of his cruel and bloud-thirſty Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>And this too, directly contrary to the tenour of their <hi>own Covenant;</hi> wherein they had ſolemnly, with hands lifted up to the moſt high God, ſworn to <hi>preſerve and defend the Kings Majeſty's Perſon and Au<g ref="char:EOLhyphen"/>thority,
+<pb n="15" facs="tcp:94699:10"/>in the preſervation and defence of the true Religion, and Liberties of the Kingdom; that the World may bear witneſs with our Conſciences of our Loyalty
+<note n="*" place="margin">Pſal. 55.21. <hi>The words of his mouth were ſmoother than but<g ref="char:EOLhyphen"/>ter, but war in his heart: his words were ſof<g ref="char:EOLhyphen"/>ter than oyl, yet were they drawn ſwords.</hi> A Pſalm penned, as 'tis proba<g ref="char:EOLhyphen"/>ble, upon the occaſion of <hi>Abſalom</hi>'s Conſpiracy and <hi>Achitophel</hi>'s Trea<g ref="char:EOLhyphen"/>chery. <hi>Mel in ore, fel in corde.</hi>
+                  </note> and that we have no thoughts or intentions to diminiſh his Majeſty's juſt Power and Greatneſs.</hi> And yet it is manifeſt that they <hi>baſely ſold him</hi> (as <hi>Judas</hi> did his Maſter) for <hi>a ſum of money,</hi> to the eternal Infamy (if not of the Nation, yet) of thoſe Huckſters a<g ref="char:EOLhyphen"/>mongſt them that were employed to drive the Bargain.</p>
+            <p>Or elſe, <hi>ſecondly,</hi> that he might impi<g ref="char:EOLhyphen"/>ouſly crave the Bleſſing of God upon his curſed Rebellion. Thus <hi>Jezebel,</hi> when ſhe thirſted after <hi>Naboth</hi>'s Vineyard and life, <hi>proclaimed a faſt,</hi> 1 Kin. 21.9. that the maſque of Religion might cover the villa<g ref="char:EOLhyphen"/>ny of ſo barbarous an action, as the cruel Murther of ſo innocent a perſon. In imi<g ref="char:EOLhyphen"/>tation of whom, theſe men or Monſters a<g ref="char:EOLhyphen"/>mongſt us, who were the occaſion of this days Solemnity, had learnt to <hi>faſt for ſtrife and debate, and to ſmite with the fiſt of wic<g ref="char:EOLhyphen"/>kedneſs,</hi>
+               <pb n="16" facs="tcp:94699:11"/>Iſai. 58.4. For when they had any miſchievous deſigne on foot, they uſed to prepare their way by proclaiming a <hi>So<g ref="char:EOLhyphen"/>lemn Faſt,</hi> as a <hi>pious Cheat</hi> to inveagle the credulous Multitude into an high opinion of their extraordinary Sanctity.</p>
+            <p>VI. <hi>Laſtly,</hi> For what end <hi>Abſalom ſtole the hearts of the men of Iſrael.</hi> Not to relieve the Oppreſſed, or reform the State, (though theſe were pretended); but to ſatisfie his ambition and avarice, by making the dead Carcaſe of his own Father a ſtep to the Crown; and then, like a Tyrant, to own no Law to rule by, but his own Luſt. A perfect Pattern of our late Rebels! as will after appear.</p>
+            <p>And the Iſſue was every way correſpon<g ref="char:EOLhyphen"/>dent to the Action; a miſchievous deſigne, attended with a miſerable deſtruction of the Arch-rebel himſelf, and <hi>twenty thouſand</hi> of his poor ſeduced Party, 2 <hi>Sam.</hi> 18.7. And let ſuch a fate attend all ſuch infa<g ref="char:EOLhyphen"/>mous Rebels!</p>
+            <p>But was not the hand of <hi>Achitophel</hi> in all this? 'Tis probable that it was; though the ſubtle Fox did not appear openly, till <hi>Abſalom</hi>'s Party was grown ſo ſtrong and
+<pb n="17" facs="tcp:94699:11"/>formidable as to take the Field, and bear down (as he thought) all oppoſition that could be made againſt it. <hi>Peter Martyr</hi> thinks that he was <hi>Autor vel faltem magnus adjutor Conjurationis:</hi> I am perſwaded that he was both, and that in compliance with <hi>Abſalom</hi>'s diſcontented, ambitious, and (it may be) revengeful humour, the whole Plot was projected, the Scenes divided, and the Actors aſſigned their ſeveral parts, by this ſubtle Polititian, before there was any apparent entrance upon the execution. And this appears to me probable, by his readineſs to attend upon <hi>Abſalom</hi>'s motion, 2 <hi>Sam.</hi> 15.12. the deſperate counſel that he gave him to make the breach irreconci<g ref="char:EOLhyphen"/>lable, 2 <hi>Sam.</hi> 16.21. and the offer of his own perſonal ſervice to purſue weary and weak-handed <hi>David,</hi> before he could re<g ref="char:EOLhyphen"/>cover counſel or courage to make any con<g ref="char:EOLhyphen"/>ſiderable reſiſtance, 2 <hi>Sam.</hi> 17.1, &amp;c. Which latter (if it had not been defeated by the over-ruling providence of God) had cer<g ref="char:EOLhyphen"/>tainly proved deſtructive to his forſaken Soveraign.</p>
+            <p>Upon what provocation this Arch-rebel as well as Polititian, engaged in this Con<g ref="char:EOLhyphen"/>ſpiracy,
+<pb n="18" facs="tcp:94699:12"/>is uncertain: But 'tis certain, that <hi>David</hi> eſteemed and honoured him ſo far, as to make him his chief Counſellor, (it may be, <hi>Lord Preſident of his Council</hi>) whoſe counſel was of that weight and authority with <hi>David, as if he had enquired at the O<g ref="char:EOLhyphen"/>racle of God,</hi> 2 Sam. 16.23. Nay, if we conſult 55 <hi>Pſal. v.</hi> 13, &amp;c. (where the Pſalmiſt curſes his perfidious Villany) we ſhall find that <hi>he</hi> made him his <hi>equal,</hi> his <hi>companion,</hi> his <hi>boſom-friend,</hi> his <hi>guide</hi> in all his affairs and actions; one in whom he repoſed the greateſt confidence; therefore, 2 <hi>Sam.</hi> 15.31. it was brought (as it ſeems) as ſtrange and unexpected news to <hi>David, Achitophel is amongst the Conſpirators.</hi> Strange it was indeed, that a perſon ſo highly honoured and obliged by the King, ſhould aſſault his Crown and Life with ſuch bitter, bloudy, and implacable malice.</p>
+            <p>But we need not be curious in our in<g ref="char:EOLhyphen"/>quiry after his baſe Treachery, and ungrate<g ref="char:EOLhyphen"/>ful Apoſtacy from his own Maſter. A plodding head and miſchievous heart will never want pretences for the ſordideſt Villanies; eſpecially when aſpiring per<g ref="char:EOLhyphen"/>ſons conceive hopes of advancing their
+<pb n="19" facs="tcp:94699:12"/>fortune by a compliance with, and adora<g ref="char:EOLhyphen"/>tion of the riſing Sun: and that no obliga<g ref="char:EOLhyphen"/>tions from a Prince will keep ſuch perſons firm to their Loyalty, might be made evi<g ref="char:EOLhyphen"/>dent by a multitude of Inſtances amongſt our ſelves.</p>
+            <p>To apply this to our preſent occaſion.</p>
+            <p>This day fell the beſt of Princes, by the bloudy and barbarous hands of his own Subjects. There were many <hi>Abſaloms</hi> and <hi>Achitophels,</hi> proud, ambitious, covetous, ſubtle, malicious wretches, that conſpired to ſhed his innocent Bloud: and to this end, <hi>ſtole the hearts</hi> of his beguiled Sub<g ref="char:EOLhyphen"/>jects, and by plauſible pretences, decoy'd them into a Rebellion againſt their lawful and gracious Soveraign, that ſo they might rob him both of his Crown and Life at once. Unnatural Miſcreants! whom no reverence to his ſacred Perſon, no fear of that great God (whoſe Vicegerent he was) no ſenſe of their own Duty, nor ſhame of the World, could reſtrain from the open, impudent, impious, and villanous ſhedding his Royal and Sacred Bloud. What Mor<g ref="char:EOLhyphen"/>ſters were theſe, that durſt deal ſo barba<g ref="char:EOLhyphen"/>rouſly with a King, their own King, who
+<pb n="20" facs="tcp:94699:13"/>offered them all the pledges of his Love, all poſſible ſecurity for their Lives, Liber<g ref="char:EOLhyphen"/>ties, Laws, Religion, or whatſoever was dear to, or might abundantly ſatisfie all good and loyal Subjects
+<note n="*" place="margin">This the King grievou<g ref="char:EOLhyphen"/>ſly com<g ref="char:EOLhyphen"/>plains of in his
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>I had for<g ref="char:EOLhyphen"/>merly de<g ref="char:EOLhyphen"/>clared to ſober and moderate minds, how deſirous I was to give all juſt content, when I agreed to ſo many Bills; which had been enough to ſecure and ſatisfie all, if ſome mens hy<g ref="char:EOLhyphen"/>dropick inſatiableneſs had not learnt to thirſt the more, by how much the more they drank.</hi> Chap. 6.</note>! A King famous for his Parts, Piety, Patience, Devotion, and all other Chriſtian Graces; which will make him admired to all Generations, when <hi>the name of theſe wicked ones ſhall rot, Prov.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.7. and ſtink in the noſtrils of all thoſe that have any ſparks of Ingenuity or Humanity left in them.</p>
+            <p>But what aſſurances could ſatisfie thoſe that were reſolved not to be ſatisfied with any thing but his Crown and Life? and therefore wretchedly ſtaved off all offers of Accommodation for Peace
+<note n="†" place="margin">Or elſe offered ſuch unreaſonable terms as he could neither in Honour, Reaſon, or Conſcience, yield to. Witneſs the 19 Propoſitions, the Treaty at <hi>
+                     <g ref="char:V">Ʋ</g>xbridge; which proved unſucceſsful</hi> (ſays the King, in his
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>by the treacherous obſti<g ref="char:EOLhyphen"/>nacy of thoſe men, with whom it was a grand Maxime, to ask ſomething which in reaſon and honour muſt be denied, that they might have ſome colour to refuſe all that was in other things granted,</hi> ch. 18.</note>. For theſe Miſcreants had a blou<g ref="char:EOLhyphen"/>dy Tragedy to act, an execrable deſigne con<g ref="char:EOLhyphen"/>trived, which they
+<pb n="21" facs="tcp:94699:13"/>were reſolved to carry on, againſt all Laws of Scripture, Nature, Nations; againſt their own publick Declarations, againſt their ſolemn Oaths, Vows, Covenants, and (I am perſwaded) the checks of their own Conſciences too, unleſs they had as wilful<g ref="char:EOLhyphen"/>ly ſeared them, as they had impudently brazened their faces to act ſuch a prodigi<g ref="char:EOLhyphen"/>ous Villany in the face of the Sun, and view of the whole World; who ſtood a<g ref="char:EOLhyphen"/>mazed to behold the impudence and impi<g ref="char:EOLhyphen"/>ety of thoſe graceleſs wretches, who had made ſuch publick and frequent Profeſſions (and thoſe confirmed by ſacred and ſolemn Oaths) of their Loyalty to that innocent and excellent Prince, whoſe Bloud after<g ref="char:EOLhyphen"/>wards they ſo barbarouſly ſpilt.</p>
+            <p>If we enquire into the Means and Me<g ref="char:EOLhyphen"/>thods by which they effected this monſtrous Villany, we ſhall find that they traced ex<g ref="char:EOLhyphen"/>actly the ſteps of this bloudy <hi>Abſalom,</hi> in their Fraud, Hypocriſie, Calumny, falſe and impudent Slanders caſt upon that Kings Perſon and Government: as appears by that <hi>Remonſtrance</hi> ſet forth in 1641. pre<g ref="char:EOLhyphen"/>tended to be for the information of the People; but intended (by ſome at leaſt)
+<pb n="22" facs="tcp:94699:14"/>for their ſeduction, and indeed proved the ſource of all our enſuing Miſeries, and the prologue to that woful Tragedy acted on this day. As alſo by their frequent and falſe <hi>Declarations,</hi> wherein they wreſt all his Expreſſions and Conceſſions to the worſt ſence, charging him with the <hi>Iriſh Rebel<g ref="char:EOLhyphen"/>lion,</hi> and <hi>the guilt of all the Bloud that was ſpilt in the three Nations</hi>
+               <note n="*" place="margin">
+                  <hi>The tenderneſs and regret I find in my ſoul, for having had any hand (&amp; that very unwillingly, God knows) in ſhedding one mans bloud unjuſtly,</hi> &amp;c. <hi>may, I hope, be ſome evidence before God and man to all poſterity, that I am far from bearing juſtly the vaſt load and guilt of all the bloud which was ſpilt in this unhappy War; which ſome men will needs charge on me, to eaſe their own fouls.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, chap. 2. Of the Iriſh Rebellion, ſee <hi>chap.</hi> 12.</note>. (Though themſelves had no ground for the raiſing that bloudy War, but their own preten<g ref="char:EOLhyphen"/>ded and groundleſs fears and jealouſies); and offering the higheſt indignities to his Royal Perſon and Family.</p>
+            <p>Their uſual Expreſſions were, <hi>Blacken him, blacken him;</hi> i. e. load him with Re<g ref="char:EOLhyphen"/>proaches, defame him amongſt the People, make him odious by falſe Accuſations, ma<g ref="char:EOLhyphen"/>licious Slanders, infamous Libels, <hi>&amp;c.</hi>
+               <note n="†" place="margin">
+                  <hi>Thoſe foul and falſe A<g ref="char:EOLhyphen"/>ſperſions were ſe<g ref="char:EOLhyphen"/>cret En<g ref="char:EOLhyphen"/>gines at firſt em<g ref="char:EOLhyphen"/>ployed a<g ref="char:EOLhyphen"/>gainſt the love of my People towards me, that undermining their value of me, mine Enemies, and theirs too, might at once blow up their Affections, and batter down their Loyalty.</hi> Chap. 15.</note> And ſo they did. Some of them <hi>ſpit</hi> their hel<g ref="char:EOLhyphen"/>liſh Venome upon his Name, as others (in imitation of their Forefathers the <hi>Jews,
+<pb n="23" facs="tcp:94699:14"/>Mark</hi> 14.65.) did their aſpiſh Poyſon <hi>in his face,</hi> (a Barbariſm unheard-of!) in token of their greateſt Contempt and Ab<g ref="char:EOLhyphen"/>horrence.</p>
+            <p>But his <hi>Name,</hi> like a <hi>pretious Oyntment,</hi> will yield a ſweet ſavour, <hi>Eccl.</hi> 7.1. when their <hi>Memorial</hi> ſhall <hi>periſh</hi> with them: or if any thing remain of it, it ſhall be noted with a black mark, <hi>Nigro carbone,</hi> fit onely to be fixed upon men famous for infamy, and render them an <hi>hiſſing,</hi> a <hi>by-word,</hi> and an <hi>aſtoniſhment</hi> to all ſucceeding Ages
+<note n="*" place="margin">
+                  <hi>I am well aſ<g ref="char:EOLhyphen"/>ſured, that as my Innocency is clear before God, ſo my Reputation ſhall, like the Sun, (after Owls and Bats have had freedom in the night and darker times) riſe and recover it ſelf to ſuch a degree of Splendour, as theſe feral Birds ſhall be grieved to behold, and unable to bear.</hi> Chap. 15.</note>.</p>
+            <p>But the grand Cheat lay in the pretence of <hi>Religion</hi> and <hi>Reformation;</hi> Popery was coming in upon us like a Floud. Popery; a terrible word, and which of late hath been made uſe of by ſome ſubtile Undermi<g ref="char:EOLhyphen"/>ners of Monarchy, as a Bugbear to affright ſilly people out of their wits. But were they really ſuch Enemies to Popery as they pretended, who connived at leaſt, at the
+<pb n="24" facs="tcp:94699:15"/>moſt infamous Hereticks and Hereſies that ever ſtarted out of Hell? (or elſe Mr. <hi>Edwards</hi> belyes them in his <hi>Gangrene</hi>). And Mr. <hi>Prynn,</hi> in his <hi>perfect Narrative,</hi> undertakes to demonſtrate to them, that their new Commonwealth or <hi>Good Old Cauſe</hi> (they are his own words) was o<g ref="char:EOLhyphen"/>riginally projected by the <hi>Jeſuits,</hi> and other <hi>Romiſh Emiſſaries, To deſtroy our Proteſtant Religion, Church, King, Kingdom, Parlia<g ref="char:EOLhyphen"/>ment, Laws, Liberties,</hi> &amp;c. And Papiſts and Popiſh books were grown ſo numerous and audacious under their government, that the <hi>Stationers</hi> of <hi>London</hi> thought themſelves bound in conſcience to alarm them and the whole Nation with a little Tract called <hi>The Beacon fired:</hi> which was very ill reſented, and bitterly anſwered by the Ringleaders of the Faction. But it would be endleſs to inſiſt upon particulars of this nature.</p>
+            <p>It's certain, that as they were no Ene<g ref="char:EOLhyphen"/>mies to Popery, ſo they were no Friends to Religion; onely they had learnt <hi>Machi<g ref="char:EOLhyphen"/>vel</hi>'s Principle, to <hi>own the ſhew,</hi> but <hi>not the ſubſtance of it:</hi> For their <hi>Solemn League and Covenant</hi> taken by themſelves, rigo<g ref="char:EOLhyphen"/>rouſly and unconſcionably preſt upon o<g ref="char:EOLhyphen"/>thers,
+<pb n="25" facs="tcp:94699:15"/>in the taking whereof, there were ſo many Solemnities uſed, ſo much ſeeming Zeal, Reverence, and Devotion expreſſed; this very <hi>Covenant,</hi> when it croſt their <hi>de<g ref="char:EOLhyphen"/>ſigne,</hi> was laid aſide <hi>like an old Almanack out of date,</hi> and a uſeleſs thing. Baſe Hypo<g ref="char:EOLhyphen"/>crites! thus to prophane the ſacred Name of the great God, by Religious Mocke<g ref="char:EOLhyphen"/>ries.</p>
+            <p>And of this their vile Hypocriſie, their own actions were a clear demonſtration, when they pluck'd off the Vizard from their faces, and were not aſhamed to diſco<g ref="char:EOLhyphen"/>ver the uglineſs of their complexions to the whole World. For when theſe zealous Reformers had gotten the Power into their own hands, and when they had ſtoln the Peoples hearts, heads, hands and all, and engaged them in their Party, what Havock did they make, what Oppreſſion, what Cruelty did they exerciſe towards their fellow-ſubjects? What Violence,
+<note place="margin">Pſal. 55.9.</note> what Strife, what Miſchief, what Wickedneſs, what Deceit or Guile did they omit, to ſupport their new-erected Tyranny?</p>
+            <p>Is it not lamentable to conſider that ſo much Treaſure ſhould be ſpent, ſo much
+<pb n="26" facs="tcp:94699:16"/>Chriſtian Bloud ſpilt, ſo many Subjects lives loſt? (not to ſpeak of the dangerous condition of their Souls who died in actual Rebellion againſt God and their King, <hi>Rom.</hi> 13.2. and were drawn in by the ſubtilty of thoſe Bloud-thirſty men); and all this to mount an <hi>infamous Faction,</hi> made up moſtly of the <hi>Dregs of the Na<g ref="char:EOLhyphen"/>tion,</hi> to the higheſt pitch of Power and Dominion. <hi>Tantum religio potuit ſuadere malorum?</hi>
+            </p>
+            <p>But the great God made them know, to their ſmart, that <hi>he ruleth in Jacob, and to the ends of the earth,</hi> Pſal. 59.13. that <hi>he is King, be the people never ſo impatient;</hi> that he <hi>ſitteth between the cherubims,</hi>
+               <note place="margin">Pſal. 99.1. Old Tranſlat.</note> be the earth never ſo unquiet; that he who ſits in Heaven, <hi>ſees</hi> and <hi>derides</hi> the bold attempts of ſuch daring mortals, <hi>Pſal.</hi> 2.4. that he <hi>to whom vengeance belongeth,</hi> will <hi>ſhew himſelf;</hi> that the <hi>Judge of all the earth,</hi> will render a <hi>reward</hi> to the <hi>proud;</hi> that the wicked ſhall not <hi>always triumph,</hi> nor the <hi>workers of iniquity boaſt themſelves,</hi> nor <hi>break in pieces his people,</hi> and <hi>afflict his heritage,</hi> and <hi>ſlay the widow,</hi> and <hi>murther the fatherleſs,</hi> Pſal. 94.1. <hi>Sera ſed certa
+<pb n="27" facs="tcp:94699:16"/>venit vindicta.</hi> At laſt <hi>God aroſe, and fcat<g ref="char:EOLhyphen"/>tered his enemies,</hi> Pſal. 68.1. blew up their <hi>Plots,</hi> ſubverted their <hi>Councils,</hi> and turned all their <hi>miſchief upon their own pates. A fire not blown, conſumed them,</hi> Job 20.26. A ſtrange and unexpected Judgment ſent from Gods immediate hand, like a fire that ariſes of it ſelf, no man knows how, ſeized upon them (when they were at the high<g ref="char:EOLhyphen"/>eſt of their hopes and confidences, and fan<g ref="char:EOLhyphen"/>cied, with the Pſalmiſt, an <hi>immovable</hi> and <hi>ſetled proſperity,</hi> Pſal. 30.6.) and caſt them down into deſtruction, brought them into deſolation, as in a moment, and <hi>utterly conſumed them with terrours,</hi> Pſal. 73.15, &amp;c.</p>
+            <p>And is it not ſad to conſider, that not<g ref="char:EOLhyphen"/>withſtanding all this, there ſhould be ſome of the ſame Litter ſtill lurking in the Na<g ref="char:EOLhyphen"/>tion? who, though they have ſeen the mighty hand of God in the deſtruction of their Party, and the miraculous reduction of his preſent Majeſty, do yet long to be at it again, and ſtill hope for the day, when they ſhall cry once more againſt Church and State, (as the <hi>Edomites</hi> did againſt
+<pb n="28" facs="tcp:94699:17"/>
+               <hi>Jeruſalem</hi>) Pſal. 137.7. <hi>Raze it, raze it, even to the foundation thereof</hi>
+               <note n="*" place="margin">Iſai. 26.11. <hi>When thy hand is lifted up, they will not ſee: but they ſhall ſee and be aſhamed of their envy at the people.</hi>
+               </note>.</p>
+            <p>Is War ſo ſweet to theſe men,
+<note place="margin">Dulce bellum inexper<g ref="char:EOLhyphen"/>tis.</note> that they ſhould ſtand on tiptoe to leap into a new Rebellion, to act over the <hi>old Part</hi> upon a <hi>new Stage,</hi> and under a <hi>new diſguiſe,</hi> to re<g ref="char:EOLhyphen"/>vive <hi>the Good Old Cauſe,</hi> to the confuſion of King, Church, and Kingdom? and in or<g ref="char:EOLhyphen"/>der to this, to endeavour, by a new knack of an <hi>Ignoramus,</hi> to pervert all Law and Juſtice, and let looſe the Reins to the grea<g ref="char:EOLhyphen"/>teſt Villanies, to plot and act all manner of miſchief <hi>impunè,</hi> even to the murther of the King himſelf? For what Juſtice can we ex<g ref="char:EOLhyphen"/>pect to be done upon thoſe, who are to be tried by their <hi>fellow-Delinquents?</hi>
+            </p>
+            <p>And is it not yet to be feared, that <hi>Ab<g ref="char:EOLhyphen"/>ſalom</hi> and <hi>Achitophel</hi> are ſtill at work a<g ref="char:EOLhyphen"/>mongſt us, and hope by their ſecret machi<g ref="char:EOLhyphen"/>nations and ſubtile inſinuations of ſtrange fears and jealouſies, to prevail with the giddy Multitude, the Rabble of Towns, and Rout of Country-bumkins, to beat (not <hi>their ſwords into plow-ſhares, and their
+<pb n="29" facs="tcp:94699:17"/>ſpears into pruning-hooks,</hi> Iſai. 2.4. that is a Propheſie of Goſpel-times, and that Peace and Concord which ſhould reign amongſt Chriſtians, but) their <hi>Plow-ſhares</hi> into <hi>Swords,</hi> and their <hi>Pruning-hooks</hi> into <hi>Spears,</hi> as it is in <hi>Joel</hi> 3.10. to convert all into Arms and Ammunition, as men uſe to do in the calamitous times of War? A time moſt ſuitable to the ſpirits of bold, furious, fiery, and bloudy-minded men.</p>
+            <p>But God hath hitherto daſh'd their de<g ref="char:EOLhyphen"/>ſignes; ſo that though they <hi>intended evil,</hi> and <hi>imagined a miſchievous device</hi> againſt King and Kingdom, yet <hi>they are not able to perform it,</hi> Pſal. 21.11. God, I ſay, hath hitherto prevented their Malice, and out of the aſhes of that Phoenix, <hi>the beſt of Princes,</hi> a <hi>Non-ſuch</hi> indeed, (but not in the ſence of thoſe Miſcreants) hath <hi>raiſed up another,</hi> our moſt gracious Soveraign now reigning, (whom God long preſerve) maugre all the <hi>Plots</hi> and devices, the ſpite and malignity of all his open and ſecret E<g ref="char:EOLhyphen"/>nemies.</p>
+            <p>I ſhall conclude with <hi>Jacob</hi>'s exprobation of <hi>Simeon</hi> and <hi>Levi,</hi> (for ſome of both
+<pb n="30" facs="tcp:94699:18"/>Tribes had a hand in the innocent bloud that was ſhed this day) and his Apoſtrophe to himſelf, by way of deteſtation of their bloudy fact, (and I hope every good Chri<g ref="char:EOLhyphen"/>ſtian and loyal Subject will joyn with me): <hi>Simeon and Levi are brethren,
+<note place="margin">Gen. 49.5, &amp;c.</note> inſtruments of cruelty are in their habitations. O my ſoul, come not thou into their ſecret: unto their aſ<g ref="char:EOLhyphen"/>ſembly, mine honour, be thou not united: for in their anger they ſlew a man, and in their ſelf-will they digged down a wall. Curſed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and ſcatter them in Iſrael.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
